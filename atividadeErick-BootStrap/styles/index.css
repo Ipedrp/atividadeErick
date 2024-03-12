@@ -1,0 +1,25 @@
+.apresentacao-header{
+    background-color: #6B240C;
+}
+
+.area-header{
+    padding-top: 3rem;
+    text-align:center;
+}
+
+.area-header h2{
+    color: #fff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+
+.img-header{
+    width: 50%;
+    margin: 3rem;
+    border-radius: 61px 34px 98px 0px;
+    -webkit-border-radius: 61px 34px 98px 0px;
+    -moz-border-radius: 61px 34px 98px 0px;
+    box-shadow: -36px -41px 8px -20px rgba(252, 252, 252, 0.95);
+    -webkit-box-shadow: -36px -41px 8px -20px rgba(252, 252, 252, 0.95);
+    -moz-box-shadow: -36px -41px 8px -20px rgba(252, 252, 252, 0.95);
+}
